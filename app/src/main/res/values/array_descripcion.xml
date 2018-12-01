@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_descripcion">
+
+        <item>Alemania es un país de Europa occidental con un paisaje de bosques,
+            ríos, cadenas montañosas y playas en el mar del Norte. Tiene más de 2
+            milenios de historia. Berlín, su capital, cuenta con sitios de arte y vida
+            nocturna, la Puerta de Brandeburgo y muchos sitios relacionados con la Segunda
+            Guerra Mundial.Múnich es conocida por el Oktoberfest y los salones de la cerveza,
+            incluido el Hofbräuhaus del siglo XVI</item>
+        <item>Brasil es un vasto país de Sudamérica que se extiende desde la
+            Cuenca del Amazonas en el norte hasta los viñedos y las enormes cataratas
+            del Iguazú en el sur. Río de Janeiro, simbolizado por su estatua de 38 m del
+            Cristo Redentor sobre el cerro del Corcovado, es famoso por sus ajetreadas playas
+            Copacabana e Ipanema, junto con su enorme y estridente festival del Carnaval, que
+            cuenta con carros alegóricos, exuberantes disfraces y danza y música samba.</item>
+        <item>Canadá es el país norteamericano que se extiende desde los Estados Unidos en el sur
+            hasta el círculo polar ártico en el norte. Las ciudades principales incluyen la enorme
+            Toronto, Vancouver, el centro cinematográfico de la costa oeste, las ciudades de habla
+            francesa Montreal y Quebec, y la capital Ottawa. Las vastas franjas de naturaleza de Canadá
+            incluyen el Parque Nacional Banff ubicado en un lago en las Montañas Rocosas.</item>
+        <item>China es una nación muy poblada de Asia Oriental cuyos vastos paisajes abarcan praderas,
+            desiertos, montañas, lagos, ríos y más de 14,000 km de costa. La capital, Pekín, mezcla la
+            arquitectura moderna con los sitios históricos como el complejo del palacio de la Ciudad Prohibida
+            y la plaza de Tiananmén. Shanghái es un centro financiero global adornado con rascacielos.</item>
+        <item>Croacia es un país de Europa Oriental con una larga costa en el mar Adriático. Incorpora a más
+            de 1,000 islas y lo cruzan los Alpes Dináricos. Su capital interior, Zagreb, es conocida por el
+            barrio Gornji Grad (ciudad alta) y sus diversos museos. La principal ciudad costera, Dubrovnik,
+            tiene murallas enormes que datan del siglo XVI y rodean una ciudad antigua con edificios góticos
+            y renacentistas.</item>
+        <item>Cuba es un país insular bajo un régimen comunista. Tiene playas de arena blanca como el azúcar y
+            lo cubren campos de tabaco, que tienen un papel fundamental en la producción de los legendarios cigarros
+            puros del país. </item>
+        <item>Finlandia es un país de Europa del Norte que limita con Suecia, Noruega y Rusia. Su capital, Helsinki,
+            ocupa una península y las islas que la rodean en el mar Báltico. En Helsinki, se encuentra la fortaleza
+            marina Suomenlinna del siglo XVIII, el moderno Distrito del Diseño y diversos museos.</item>
+        <item>Jamaica, un país insular caribeño, tiene una frondosa topografía de montañas, bosques pluviales
+            y playas con arrecifes. Muchos de sus complejos hoteleros servicio de todo incluido (all-inclusive)
+            se agrupan en Bahía Montego, de arquitectura colonial británica, y Negril, conocida por sus sitios de
+            buceo y esnórquel. </item>
+        <item>Japón es una nación insular del océano Pacífico con densas ciudades, palacios imperiales, parques nacionales
+            montañosos y miles de santuarios y templos. </item>
+        <item>México es un país entre los Estados Unidos y América Central, conocido por las playas en el Pacífico y el golfo
+            de México, y su diverso paisaje de montañas, desiertos y selvas. Las ruinas antiguas, como Teotihuacán y la ciudad
+            maya de Chichén Itzá, se distribuyen por el país, al igual que las ciudades de la época colonial española.</item>
+        <item>Noruega es un país escandinavo que incluye montañas, glaciares y profundos fiordos costeros. Oslo, su capital,
+            es una ciudad de áreas verdes y museos. En el Museo de barcos vikingos de Oslo, se muestran navíos vikingos preservados del siglo IX.
+            Bergen, con coloridas casas de madera, es el punto de partida de los cruceros hacia el sorprendente fiordo de Sogn.</item>
+        <item>Suiza es un país montañoso de Europa Central, con varios lagos, aldeas y las altas cimas de los Alpes. Sus ciudades tienen
+            barrios medievales, con monumentos como la torre del reloj Zytlogge en su capital, Berna, y el puente de madera de la capilla
+            en Lucerna. </item>
+    </array>
+</resources>
